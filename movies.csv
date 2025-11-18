@@ -1,0 +1,31 @@
+movie_id,title,genres,year,rating,duration,description
+1,The Shawshank Redemption,Drama|Crime,1994,9.3,142,Two imprisoned men bond over years and find hope through acts of kindness.
+2,The Godfather,Crime|Drama,1972,9.2,175,The aging patriarch of a mafia dynasty transfers control to his reluctant son.
+3,The Dark Knight,Action|Crime|Drama,2008,9.0,152,Batman faces the Joker who brings chaos to Gotham City.
+4,Pulp Fiction,Crime|Drama,1994,8.9,154,Stories of crime intertwine in Quentin Tarantino's stylish masterpiece.
+5,Forrest Gump,Drama|Romance,1994,8.8,142,A slow-witted man witnesses and influences key historical events.
+6,Inception,Action|Sci-Fi|Thriller,2010,8.8,148,A thief enters dreams to steal secrets but faces a powerful enemy.
+7,Fight Club,Drama|Thriller,1999,8.7,139,A disillusioned man forms an underground fight club with mysterious Tyler Durden.
+8,Interstellar,Sci-Fi|Drama|Adventure,2014,8.6,169,A team travels through a wormhole to save humanity from extinction.
+9,The Matrix,Action|Sci-Fi,1999,8.7,136,A hacker discovers that the world is a simulation controlled by machines.
+10,Se7en,Crime|Thriller|Mystery,1995,8.6,127,Two detectives hunt a serial killer using the seven deadly sins.
+11,Gladiator,Action|Drama|Adventure,2000,8.5,155,A betrayed Roman general fights as a gladiator to seek vengeance.
+12,Avengers: Endgame,Action|Sci-Fi|Adventure,2019,8.4,181,The Avengers attempt to reverse Thanos' catastrophic snap.
+13,The Wolf of Wall Street,Biography|Comedy|Crime,2013,8.2,180,A stockbroker rises and falls in a life of excess and corruption.
+14,The Social Network,Biography|Drama,2010,7.8,120,The story of Facebook's creation and the personal conflicts that followed.
+15,Parasite,Thriller|Drama|Comedy,2019,8.6,132,A poor family infiltrates a wealthy household with unexpected consequences.
+16,Whiplash,Drama|Music,2014,8.5,107,A talented drummer is pushed to extremes by his ruthless instructor.
+17,La La Land,Romance|Drama|Music,2016,8.0,128,A musician and actress pursue their dreams and love in Los Angeles.
+18,The Lion King,Animation|Adventure|Drama,1994,8.5,88,A young lion prince flees after tragedy and returns to claim his place.
+19,Harry Potter and the Sorcerer's Stone,Fantasy|Adventure,2001,7.6,152,A boy discovers he is a wizard and attends Hogwarts School.
+20,The Avengers,Action|Sci-Fi|Adventure,2012,8.0,143,Earth's mightiest heroes join forces to stop Loki's invasion.
+21,Shutter Island,Mystery|Thriller,2010,8.2,138,Two U.S. marshals investigate a mysterious disappearance on a remote island.
+22,The Prestige,Drama|Mystery|Sci-Fi,2006,8.5,130,Two rival magicians become obsessed with outdoing each other.
+23,Titanic,Romance|Drama,1997,7.9,195,A rich girl and poor boy fall in love aboard the doomed ship.
+24,Joker,Crime|Drama|Thriller,2019,8.5,122,A troubled man becomes Gotham’s most infamous criminal.
+25,Avatar,Sci-Fi|Adventure|Fantasy,2009,7.9,162,A marine forms a bond with an alien world threatened by humans.
+26,John Wick,Action|Thriller,2014,7.4,101,An ex-hitman seeks revenge after gangsters kill his dog.
+27,Mad Max: Fury Road,Action|Adventure|Sci-Fi,2015,8.1,120,Survivors race across a desert wasteland while fleeing a tyrant.
+28,The Conjuring,Horror|Mystery|Thriller,2013,7.5,112,Paranormal investigators help a family terrorized by dark forces.
+29,The Notebook,Romance|Drama,2004,7.8,123,A young couple falls deeply in love one summer but face separation.
+30,Spider-Man: No Way Home,Action|Sci-Fi|Adventure,2021,8.2,148,Spider-Man deals with multiverse chaos after a spell goes wrong.
